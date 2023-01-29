@@ -1,0 +1,97 @@
+2023-01-27 23:11:59,606 :INFO :test_e2e :Getting Items
+2023-01-27 23:11:59,748 :INFO :test_e2e :iphone X
+2023-01-27 23:11:59,817 :INFO :test_e2e :Samsung Note 8
+2023-01-27 23:11:59,871 :INFO :test_e2e :Nokia Edge
+2023-01-27 23:11:59,925 :INFO :test_e2e :Blackberry
+2023-01-27 23:12:11,490 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-27 23:17:39,685 :INFO :test_e2e :Getting Items
+2023-01-27 23:17:39,771 :INFO :test_e2e :iphone X
+2023-01-27 23:17:39,817 :INFO :test_e2e :Samsung Note 8
+2023-01-27 23:17:39,860 :INFO :test_e2e :Nokia Edge
+2023-01-27 23:17:39,905 :INFO :test_e2e :Blackberry
+2023-01-27 23:17:50,620 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-27 23:18:45,164 :INFO :test_e2e :Getting Items
+2023-01-27 23:18:45,240 :INFO :test_e2e :iphone X
+2023-01-27 23:18:45,288 :INFO :test_e2e :Samsung Note 8
+2023-01-27 23:18:45,335 :INFO :test_e2e :Nokia Edge
+2023-01-27 23:18:45,366 :INFO :test_e2e :Blackberry
+2023-01-27 23:18:56,152 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-27 23:20:03,171 :INFO :test_e2e :Getting Items
+2023-01-27 23:20:03,256 :INFO :test_e2e :iphone X
+2023-01-27 23:20:03,302 :INFO :test_e2e :Samsung Note 8
+2023-01-27 23:20:03,334 :INFO :test_e2e :Nokia Edge
+2023-01-27 23:20:03,371 :INFO :test_e2e :Blackberry
+2023-01-27 23:20:14,091 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-27 23:20:18,549 :INFO :test_formSubmission :Email ID issupraja@gmail.com
+2023-01-27 23:20:18,643 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-27 23:20:18,780 :INFO :test_formSubmission :Email ID isHello
+2023-01-27 23:20:19,022 :INFO :test_formSubmission :Email ID isHello again
+2023-01-27 23:20:19,358 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-27 23:20:24,621 :INFO :test_formSubmission :Email ID isTanuz@gmail.com
+2023-01-27 23:20:24,621 :INFO :test_formSubmission :Email ID isTanuz@gmail.com
+2023-01-27 23:20:24,769 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-27 23:20:24,769 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-27 23:20:24,984 :INFO :test_formSubmission :Email ID isTanuz
+2023-01-27 23:20:24,984 :INFO :test_formSubmission :Email ID isTanuz
+2023-01-27 23:20:25,273 :INFO :test_formSubmission :Email ID isHello Smile
+2023-01-27 23:20:25,273 :INFO :test_formSubmission :Email ID isHello Smile
+2023-01-27 23:20:25,531 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-27 23:20:25,531 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-28 11:50:42,200 :INFO :test_e2e :Getting Items
+2023-01-28 11:50:42,251 :INFO :test_e2e :iphone X
+2023-01-28 11:50:42,282 :INFO :test_e2e :Samsung Note 8
+2023-01-28 11:50:42,312 :INFO :test_e2e :Nokia Edge
+2023-01-28 11:50:42,332 :INFO :test_e2e :Blackberry
+2023-01-28 11:50:52,905 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-28 11:50:57,283 :INFO :test_formSubmission :Email ID issupraja@gmail.com
+2023-01-28 11:50:57,366 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-28 11:50:57,507 :INFO :test_formSubmission :Email ID isHello
+2023-01-28 11:50:57,662 :INFO :test_formSubmission :Email ID isHello again
+2023-01-28 11:50:57,821 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-28 11:51:03,014 :INFO :test_formSubmission :Email ID isTanuz@gmail.com
+2023-01-28 11:51:03,014 :INFO :test_formSubmission :Email ID isTanuz@gmail.com
+2023-01-28 11:51:03,100 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-28 11:51:03,100 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-28 11:51:03,213 :INFO :test_formSubmission :Email ID isTanuz
+2023-01-28 11:51:03,213 :INFO :test_formSubmission :Email ID isTanuz
+2023-01-28 11:51:03,397 :INFO :test_formSubmission :Email ID isHello Smile
+2023-01-28 11:51:03,397 :INFO :test_formSubmission :Email ID isHello Smile
+2023-01-28 11:51:03,567 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-28 11:51:03,567 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-28 18:55:27,811 :INFO :test_e2e :Getting Items
+2023-01-28 18:55:27,859 :INFO :test_e2e :iphone X
+2023-01-28 18:55:27,889 :INFO :test_e2e :Samsung Note 8
+2023-01-28 18:55:27,916 :INFO :test_e2e :Nokia Edge
+2023-01-28 18:55:27,947 :INFO :test_e2e :Blackberry
+2023-01-28 18:55:38,556 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-28 18:55:42,994 :INFO :test_formSubmission :Email ID issupraja@gmail.com
+2023-01-28 18:55:43,088 :INFO :test_formSubmission :Email ID iswelcome_123
+2023-01-28 18:55:43,257 :INFO :test_formSubmission :Email ID isHello
+2023-01-28 18:55:43,432 :INFO :test_formSubmission :Email ID isHello again
+2023-01-28 18:55:43,621 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-01-28 18:56:40,943 :INFO :test_e2e :Getting Items
+2023-01-28 18:56:40,990 :INFO :test_e2e :iphone X
+2023-01-28 18:56:41,020 :INFO :test_e2e :Samsung Note 8
+2023-01-28 18:56:41,051 :INFO :test_e2e :Nokia Edge
+2023-01-28 18:56:41,077 :INFO :test_e2e :Blackberry
+2023-01-28 18:56:51,699 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-28 18:56:56,213 :INFO :test_formSubmission :Email ID istest@email.com
+2023-01-28 18:56:56,316 :INFO :test_formSubmission :Email ID ishell0@321
+2023-01-28 18:56:56,471 :INFO :test_formSubmission :Email ID isSupraja
+2023-01-28 18:56:56,656 :INFO :test_formSubmission :Email ID isReaddy
+2023-01-28 18:56:56,833 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
