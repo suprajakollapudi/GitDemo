@@ -32,3 +32,4 @@ class TestFramework(BaseClass):
         log.info(alertMessage)
         assert "Success! Thank you!1" in alertMessage
         log.info("Execution completed successfully")
+        print("For Git Demo")
