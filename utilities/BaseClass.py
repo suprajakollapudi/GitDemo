@@ -24,3 +24,4 @@ class BaseClass:
         wait = WebDriverWait(self.driver, 10)
         wait.until(expected_conditions.presence_of_element_located((By.LINK_TEXT, text)))
         print("git demo")
+        print("adding new comment")
