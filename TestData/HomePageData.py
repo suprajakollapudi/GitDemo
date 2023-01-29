@@ -5,7 +5,8 @@ class HomePageData:
     test_HomePage_Data = [
         {"EmailID" : "supraja@gmail.com", "Pwd" : "welcome_123", "Name" : "Hello", "DataBind": "Hello again"},
         {"EmailID" : "Tanuz@gmail.com", "Pwd" : "welcome_123", "Name" : "Tanuz", "DataBind": "Hello Smile"},
-        {"EmailID" : "Hanvi@gmail.com", "Pwd" : "welcome_123", "Name" : "Hanvi", "DataBind": "Hello Hanvi"}]
+        {"EmailID" : "Hanvi@gmail.com", "Pwd" : "welcome_123", "Name" : "Hanvi", "DataBind": "Hello Hanvi"},
+        {"EmailID" : "Sravan@gmail.com", "Pwd" : "welcome_123", "Name" : "Sravan", "DataBind": "Hello Sravan"}]
 
     @staticmethod
     def get_testdata(test_case_name):
