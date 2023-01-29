@@ -52,6 +52,11 @@ class HomePage:
 
     def findAlert(self):
         return self.driver.find_element(*HomePage.alert)
+        print("hello - Git demo")
+
+    def gitdemo(self):
+        return self.driver.find_element(*HomePage.alert)
+        print("hello - Git demo")
 
 
 

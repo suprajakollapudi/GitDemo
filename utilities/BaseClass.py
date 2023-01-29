@@ -23,3 +23,4 @@ class BaseClass:
     def verifyLinkedTextPresence(self, text):
         wait = WebDriverWait(self.driver, 10)
         wait.until(expected_conditions.presence_of_element_located((By.LINK_TEXT, text)))
+        print("git demo")
